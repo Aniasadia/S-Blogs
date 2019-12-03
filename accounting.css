@@ -1,0 +1,174 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
+body{
+	display: grid;
+	align-items:center;
+	grid-auto-columns: repeat(auto-fit, minmax(240px,1fr));
+	grid-template-rows: auto; 
+	background-color: #EDEDED;
+}
+
+.header img{
+	clear: both;
+}
+
+
+.headings{
+	text-align: center;
+	margin-top: 60px;
+}
+.headings h1{
+	margin-bottom: 60px;
+	color: #FFFFFF;
+}
+ 
+
+.headings h3{
+	
+	color: #D2DCE4;
+}
+.headings h6{
+	padding-bottom: 70px;
+	font-size: 15px;
+	color: #DFDFDF;
+}
+header{
+	background-image: linear-gradient(rgba(0,0,0,0), rgba(0,0,0,0.5),rgba(0,0,0,0.3) ), url(images/5.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: top;
+
+}
+
+section{
+	margin-left: 70px;
+	margin-right: 70px;
+	font-family:'Roboto', sans-serif;
+	background-image: url(images/38.jpg);
+}
+
+.accounting{
+	margin-top: 20px;
+}
+.accounting h2{
+	text-decoration: underline;
+	padding-bottom: 5px;
+} 
+.acc_types{
+	margin-top: 15px;
+}
+.acc_types h3{
+	text-decoration: underline;
+	padding-bottom: 5px;
+}
+.asset{
+	margin-top: 15px;
+}
+.asset h3{
+	text-decoration: underline;
+	padding-bottom: 5px;
+}
+.asset ul{
+	list-style: none;
+}
+.expense{
+	margin-top: 15px;
+}
+.expense h3{
+	text-decoration: underline;
+	padding-bottom: 5px;
+}
+.liabilities{
+	margin-top: 15px;
+}
+.liabilities h3{
+	text-decoration: underline;
+	padding-bottom: 5px;
+}
+.liabilities ul{
+	list-style: none;
+}
+.equity{
+	margin-top: 15px;
+}
+.equity h3{
+	text-decoration: underline;
+	padding-bottom: 5px;
+}
+.profit{
+	margin-top: 15px;
+}
+.profit h3{
+	text-decoration: underline;
+	padding-bottom: 5px;
+}
+.table_div{
+	margin-top: 15px;
+}
+.table_div h3{
+	text-decoration: underline;
+	padding-bottom: 5px;
+}
+
+
+footer{
+	background-image:linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url(images/1.gif);
+	background-repeat: no-repeat;
+	background-position: top;
+	background-size: cover;
+
+}
+footer h3{
+	padding-top: 10px;
+	color: white;
+	text-align: center;
+	padding-bottom: 0px;
+	font-size: 30px;
+}
+footer h3:hover{
+	color: #00B2FF;
+}
+footer img{
+	border-radius: 80px;
+	float: left;
+	margin-left: 50px;
+	max-width: 100%
+}
+
+
+footer p{
+
+}
+.author-info{
+	padding-top: 20px;
+}
+.author-info img{
+	margin-right: 30px;
+}
+.author-info p{
+	color: white;
+	padding-top: 20px;
+	margin-right: 30px;
+	text-align: justify;
+}
+
+.copyright1{
+	text-align: center;
+	margin: 0px;
+	padding-right: 30px;
+	font-size: 13px;
+}
+
+.copyright1 a{
+	margin-top: 20px;
+	padding-bottom: -20px;
+	text-decoration: none;
+	color: #00FFE4;
+
+}
+.copyright1 a:hover{
+	color: #A1E6FF;
+}

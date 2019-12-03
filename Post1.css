@@ -1,0 +1,17 @@
+
+body{
+	background-image: url(images/3.gif);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+	margin: 0px;
+	padding: 0px;
+}
+
+.back-link{
+	font-size: 30px;
+	color: white;
+}
+.back-link:hover{
+	color: red;
+}
