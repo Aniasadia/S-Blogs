@@ -70,6 +70,13 @@ section{
 	text-decoration: underline;
 	padding-bottom: 5px;
 }
+.g_j{
+	margin-top: 15px;
+}
+.g_j h3{
+	text-decoration: underline;
+	padding-bottom: 5px;
+}
 .asset ul{
 	list-style: none;
 }
@@ -110,6 +117,24 @@ section{
 .table_div h3{
 	text-decoration: underline;
 	padding-bottom: 5px;
+}
+.table_div table{
+		border: 1px solid black;
+}
+.table_div table tr td{
+	padding-left: 40px;
+	padding-right: 40px;
+	text-align: center;
+	border-left: 2px solid black;
+}
+
+.table_div table tr th{
+	text-align: center;
+	border-bottom: 2px solid black;
+	border-left: 2px solid black;
+}
+.g_j{
+
 }
 
 
