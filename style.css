@@ -177,6 +177,58 @@ padding-top: 20px;
 .p2 a:hover{
 	color: black;
 }
+
+
 .p2 a{
+	color: blue;
+}
+.p3 img{
+	float: left;
+	border-radius: 40px;
+	max-width: 100%;
+	margin-right: 30px;
+}
+.p3 p{
+	font-family: serif;
+	font-size: 17px;
+	padding-bottom: 20px;
+}
+.p3{
+	padding-top: 20px;
+	padding-bottom: auto;
+	border-bottom: 2px solid #FC5232;
+	
+}
+.p3 a:hover{
+	color: black;
+}
+.p3 a{
+	color: blue;
+}
+
+.p4 a{
+	color: blue;
+}
+.p4 img{
+	float: left;
+	border-radius: 40px;
+	max-width: 100%;
+	margin-right: 30px;
+}
+.p4 p{
+	font-family: serif;
+		padding-bottom: 20px;
+	font-size: 17px;
+}
+.p4{
+	padding-top: 20px;
+	padding-bottom: 20px;
+	border-bottom: 2px solid #FC5232;
+	
+}
+.p4 a:hover{
+	color: black;
+}
+.p4 a{
 	color: blue;
 }
